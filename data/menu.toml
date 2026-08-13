@@ -1,11 +1,29 @@
 [[entries]]
-title = "posts"
+title = "projects"
 
-    [entries.post_list]
-    limit = 16
-    show_more = true
-    show_more_text = "View more..."
-    show_more_url = "posts"
+    [[entries.entries]]
+    title = "Reverse Shell Generator (\"Assembled\" tab)"
+    url = "https://revshells.com#assembled"
+    
+    [[entries.entries]]
+    title = "CVE-2015-8522 (Remote Code Execution)"
+    url = "https://github.com/damariion/CVE-2015-8522.RCE"
+
+    [[entries.entries]]
+    title = "CVE-2015-1925 (Remote Code Execution)"
+    url = "https://github.com/damariion/CVE-2015-1925.RCE"
+
+    [[entries.entries]]
+    title = "Swiss Army Knife for Shellcoders"
+    url = "https://github.com/damariion/shellcoder"
+
+    [[entries.entries]]
+    title = "Template Text Processor for Gophish"
+    url = "https://github.com/damariion/gophish-docs"
+
+    [[entries.entries]]
+    title = "Windows Error-code Resolver for Binary Ninja"
+    url = "https://github.com/damariion/win-errco-resolver"
 
 [[entries]]
 title = "socials"

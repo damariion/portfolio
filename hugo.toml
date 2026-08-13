@@ -1,4 +1,6 @@
 baseURL = "https://damariion.github.io/portfolio/"
 title = "Damarion's Portfolio"
 theme = "nostyleplease"
-locale = "en-us"
+
+[markup.highlight]
+  style = "darcula"
