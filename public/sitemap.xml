@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://damarion.me/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damarion.me/posts/</loc>
+    <loc>http://localhost:1313/portfolio/posts/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damarion.me/posts/shellcode-ideal-prologue/</loc>
+    <loc>http://localhost:1313/portfolio/posts/shellcode-ideal-prologue/</loc>
     <lastmod>2026-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://damarion.me/categories/</loc>
+    <loc>http://localhost:1313/portfolio/categories/</loc>
   </url><url>
-    <loc>https://damarion.me/tags/</loc>
+    <loc>http://localhost:1313/portfolio/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,6 @@
+{{ if site.Params.theme_config.isShowFooter }}
+    {{ $footerContent := readFile "layouts/footer.md" }}
+        <footer class="site-footer">
+            <span>char cr[16]; strcpy(cr, "&copy; {{ now.Format "2006" }} Damarion AAAABBBB");</span>
+        </footer>
+{{ end }}

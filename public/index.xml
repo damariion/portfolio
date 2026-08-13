@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Damarion&#39;s Portfolio</title>
-		<link>https://damarion.me/</link>
+		<link>http://localhost:1313/portfolio/</link>
 		<description>Recent content on Damarion&#39;s Portfolio</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 12 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://damarion.me/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Shellcode: The Ideal Prologue</title>
-				<link>https://damarion.me/posts/shellcode-ideal-prologue/</link>
+				<link>http://localhost:1313/portfolio/posts/shellcode-ideal-prologue/</link>
 				<pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://damarion.me/posts/shellcode-ideal-prologue/</guid>
+				<guid>http://localhost:1313/portfolio/posts/shellcode-ideal-prologue/</guid>
 				<description>&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
 			</item>
 	</channel>
