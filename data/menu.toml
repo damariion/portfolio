@@ -1,0 +1,19 @@
+[[entries]]
+title = "posts"
+
+    [entries.post_list]
+    limit = 16
+    show_more = true
+    show_more_text = "View more..."
+    show_more_url = "posts"
+
+[[entries]]
+title = "socials"
+
+    [[entries.entries]]
+    title = "GitHub"
+    url = "https://github.com/damariion/"
+
+    [[entries.entries]]
+    title = "LinkedIn"
+    url = "https://www.linkedin.com/in/damarion-abendanon/"
