@@ -6,6 +6,10 @@ title = "projects"
     url = "https://revshells.com#assembled"
     
     [[entries.entries]]
+    title = "Syntax Support for rp++ in VScode"
+    url = "https://github.com/damariion/rp-syntax"
+
+    [[entries.entries]]
     title = "CVE-2015-8522 (Remote Code Execution)"
     url = "https://github.com/damariion/CVE-2015-8522.RCE"
 
